@@ -9,4 +9,4 @@
 
 $\color{#ff1492}{算法}$ 
 <hr>
-41. [缺失的第一个正数](https://github.com/WuydClaire/JavaStudyNote/blob/leetcode/bitmap/N41_FirstMissingPositive.java "N41_FirstMissingPositive.java")
+41. [缺失的第一个正数](https://github.com/WuydClaire/JavaStudyNote/blob/leetcode/bitmap/N41_FirstMissingPositive.java)
